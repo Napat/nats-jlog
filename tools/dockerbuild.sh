@@ -1,0 +1,1 @@
+docker build --tag nats-jlogger:0.1.0 -f ./deploy/nats-jlogger/Dockerfile .
